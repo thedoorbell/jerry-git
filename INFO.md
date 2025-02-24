@@ -1,3 +1,3 @@
 git is awesome!
-new line
-learning amend
+new line is changed
+learning interactive index
